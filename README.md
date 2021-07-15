@@ -1,3 +1,3 @@
 # DebugProxy
-Debug HTTP/HTTPS Requests.
+Easily Debug HTTP/HTTPS Requests.
 
